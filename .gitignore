@@ -3,3 +3,5 @@ peer_evals_raw.csv
 peer-evaluations.Rproj
 output/
 .Rhistory
+.RData
+*.csv

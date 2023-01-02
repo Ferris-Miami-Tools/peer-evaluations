@@ -5,7 +5,7 @@ pacman::p_load(tidyverse)
 source("./funcs.R")
 
 # Load in the data
-raw_data = getRawData("./peer_evals_raw.csv")
+raw_data = getRawData("./peer_evals_raw_F22.csv")
 
 # Start cleaning process
 # * Remove records where the student did not provide their name and unique ID
